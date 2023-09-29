@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🇮🇹  Bari, Italy<br>🎓 Computer Engineering at Politecnico di Bari.<br>🔐 Participant & Tutor at [Cyberchallenge.it](https://cyberchallenge.it/), organized by [CINI](https://cybersecnatlab.it/) and [ACN](https://www.acn.gov.it/).<br>🐍 Python<br>🖥️ Java<br>🔭 Currently working on Next.JS<br>
+ 🇮🇹  Bari, Italy<br>🎓 Computer Engineering at Politecnico di Bari.<br>🔐 Tutor at [Cyberchallenge.it](https://cyberchallenge.it/), organized by [CINI](https://cybersecnatlab.it/) and [ACN](https://www.acn.gov.it/).<br>🐍 Python<br>🖥️ Java<br>🔭 Currently working on Next.JS<br>
 
 
 ## 🌐 Socials:
